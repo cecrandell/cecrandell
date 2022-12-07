@@ -5,5 +5,7 @@
 Welcome to my GitHub profile!
 
 👩🏻‍💻 Full-stack software engineer 
+
 💛 Passionate about JavaScript, Python, and SQL
+
 🗽 Based in NYC
