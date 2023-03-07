@@ -6,7 +6,7 @@ Welcome to my GitHub profile! My name is Caroline Crandell, and here are some fu
 
 📊 Data analyst and full-stack software engineer
 
-💛 Passionate about SQL, Python, Excel, Tableau, and JavaScript
+💛 Passionate about SQL, Python, Excel, JasperReports, Tableau, and JavaScript
 
 🗽 Based in NYC
 
