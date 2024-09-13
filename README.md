@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Caroline Crandell [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/carolinecrandell/)
+## Caroline Crandell [Linkedin](https://www.linkedin.com/in/carolinecrandell/)
 
 Welcome to my GitHub profile! My name is Caroline Crandell, and here are some fun facts about me 🌻
 
