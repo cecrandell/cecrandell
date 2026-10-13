@@ -2,12 +2,10 @@
 
 ## Caroline Crandell [Linkedin](https://www.linkedin.com/in/carolinecrandell/)
 
-Welcome to my GitHub profile! My name is Caroline Crandell, and here are some fun facts about me 🌻
+📊 Data engineer working with SQL Server, SSIS, Python, Tableau, Salesforce, and Linux. I build ETL pipelines, automate reporting, and keep data reliable, documented, and secure.
 
-📊 Data analyst and full-stack software engineer
+🗽 My current work at NYU Stern is internal, so it does not appear here. These projects are earlier personal and learning work.
 
-💛 Passionate about SQL, Python, Excel, JasperReports, Tableau, and JavaScript
+🎓 MSc Computer Science, UCL (Distinction)
 
-🗽 Based in NYC
-
-📚 Graduated from UCL, a top ten university, with a masters in computer science
+MSc dissertation with the NHS: Django mental health referral system and clinician portal (code owned by NHS; [README](https://github.com/cecrandell/nhs))
